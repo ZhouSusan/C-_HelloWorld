@@ -1,5 +1,5 @@
 #HelloWorld
-<hr>
+
 ## Summary
 This a learning repo following the [Microsoft c# unit testing tutorial](https://learn.microsoft.com/en-us/visualstudio/test/getting-started-with-unit-testing). The objective is to explore the c# syntax and learn key concepts. This app is a command line interface app (CLI app).
 

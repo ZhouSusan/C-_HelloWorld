@@ -10,6 +10,6 @@ This a learning repo following the [Microsoft c# unit testing tutorial](https://
 - Understand how to write and create methods in a class.
 
 ## Execution
-Recommend that you have a copy of Visual Studio installed locally on your machine. Navigate and open the downloaded repo. From there you can build and run the app by clicking the green arrow center screen (assuming default layout) or ```Ctrl + F5```. Select "Calculator" for Startup item.
+Recommend that you have a copy of Visual Studio installed locally on your machine. Navigate and open the downloaded repo. From there you can build and run the app by clicking the green arrow center screen (assuming default layout) or ```Ctrl + F5```. Select "HelloWorld" for Startup item.
 
 There will be instructions on how to operate the CLI app in the terminal.
